@@ -1,0 +1,23 @@
+# Backend (Laravel)
+backend/.env
+backend/.env.*
+backend/vendor/
+backend/storage/*.log
+backend/bootstrap/cache/*.php
+backend/public/storage
+backend/.phpunit.cache
+
+# Frontend (React)
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.*.local
+frontend/src/**/*.css.map
+
+# Système
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+*.lock
+*.tmp
